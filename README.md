@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Robotics, Machine Learning, Full Stack Web Development**
 - 🌱 I’m currently learning **Deep Neural Networks, Robot ROS**
 
-- 👨‍💻 All of my projects are available at [samirbhattarai135.github.io](samirbhattarai135.github.io)
+- 👨‍💻 All of my projects are available at [samirbhattarai135.github.io]((https://samirbhattarai135.github.io/))
 
 - 📫 How to reach me **samirbhattarai135@gmail.com**
 
