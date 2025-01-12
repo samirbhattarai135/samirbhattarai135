@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 <p>
 <a href="https://github.com/samirbhattarai135">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirbhattarai135&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samirbhattarai135&theme=gruvbox&layout=compact" />
 </a>
 </p>
