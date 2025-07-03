@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m **@samirbhattarai135**
 - 👀 I’m interested in **Robotics, Machine Learning, Full Stack Web Development**
-- 🌱 I’m currently learning **Deep Neural Networks, Robot ROS**
+- 🌱 I’m currently learning **ROS2, Ignition 8.1, and SCADA Systems**
 
 - 👨‍💻 All of my projects are available at [samirbhattarai135.github.io](https://samirbhattarai135.github.io/)
 
