@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **samirbhattarai135@gmail.com**
 
-- 📄 Know about my experiences [samirbhattarai135.github.io](samirbhattarai135.github.io)
+- 📄 Know about my experiences [www.samirbhattarai.com](www.samirbhattarai.com)
 
 <!---
 samirbhattarai135/samirbhattarai135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
