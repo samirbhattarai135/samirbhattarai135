@@ -1,8 +1,8 @@
 <h3 align="center">Passionate Robotics Enthusiast ||Computer Engineering and Mathematics</h3>
 
 - 👋 Hi, I’m **@samirbhattarai135**
-- 👀 I’m interested in **Robotics, Machine Learning, Full Stack Web Development**
-- 🌱 I’m currently learning **ROS2, Ignition 8.1, and SCADA Systems**
+- 👀 I’m interested in **Robotics, Machine Learning, Computer Hardware**
+- 🌱 I’m currently learning **ROS2, Digital Systems Design, and Embedded Systems Design**
 
 - 👨‍💻 Know about my experiences [www.samirbhattarai.com](www.samirbhattarai.com)
 
