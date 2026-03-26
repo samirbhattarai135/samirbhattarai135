@@ -1,32 +1,60 @@
-<h3 align="center">Passionate Robotics Enthusiast ||Computer Engineering and Mathematics</h3>
+<div align="center">
 
-- 👋 Hi, I’m **@samirbhattarai135**
-- 👀 I’m interested in **Robotics, Machine Learning, Computer Hardware**
-- 🌱 I’m currently learning **ROS2, Digital Systems Design, and Embedded Systems Design**
+<h1>Samir Bhattarai</h1>
+<h3>Computer Engineering @ USM &nbsp;·&nbsp; Robotics · Embedded Systems · IoT</h3>
 
-- 👨‍💻 Know about my experiences [www.samirbhattarai.com](www.samirbhattarai.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samirbhattarai.com-blue?style=flat-square&logo=google-chrome)](https://samirbhattarai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samir135-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/samir135)
+[![Email](https://img.shields.io/badge/Email-samirbhattarai135@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:samirbhattarai135@gmail.com)
 
+</div>
 
-- 📫 How to reach me **samirbhattarai135@gmail.com**
-<!---
-samirbhattarai135/samirbhattarai135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 About Me
+
+I build systems where hardware meets intelligence — autonomous robots, FPGA architectures, real-time IoT pipelines, and embedded firmware that ships in production environments.
+
+- 🔭 **Software & IoT Intern @ [Arroyodev, LLC](https://arroyodev.com)** — shipping Software and IoT systems
+- 🔬 **Undergraduate Researcher @ USM** — FPGA-based hardware security and authentication protocols
+- 🎓 B.S. Computer Engineering and Mathematics, University of Southern Mississippi (Dec 2027) · Honors Scholar
+- 📄 Research in embedded systems and hardware security
+- 🚀 **Actively seeking a Summer 2026 internship** in Robotics / Embedded Systems / IoT / Software Engineering
+
+### 🛠️ Tech Stack
+
+**Languages**
 
 <p>
-<a href="https://github.com/samirbhattarai135">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samirbhattarai135&theme=gruvbox&layout=compact" />
-</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,js,ts" />
 </p>
 
+**Robotics & Embedded**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samir-bhattarai-1640011a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir-bhattarai-1640011a7" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino,opencv,tensorflow," />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,raspberrypi" />
-  </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Systems & DevOps**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,aws,gcp,azure,git" />
+</p>
+
+**Also:** VHDL, FPGA (AMD Vivado) · SCADA (Ignition 8.1) · MQTT · AWS IoT Core · KiCAD · Fusion 360 (CAD/CAM) · Gazebo
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samirbhattarai135&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirbhattarai135&theme=tokyonight&layout=compact" />
+</p>
+
+---
+
+<div align="center">
+  <i>Open to internship opportunities in Robotics, Embedded Systems, IoT, and Software Engineering</i><br/>
+  <b>Let's connect → <a href="mailto:samirbhattarai135@gmail.com">samirbhattarai135@gmail.com</a></b>
+</div>
