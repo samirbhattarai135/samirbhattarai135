@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I build systems where hardware meets intelligence — autonomous robots, FPGA architectures, real-time IoT pipelines, and embedded firmware that ships in production environments.
 
@@ -21,64 +21,77 @@ I build systems where hardware meets intelligence — autonomous robots, FPGA ar
 - 📄 Research in embedded systems and hardware security
 - 🚀 **Actively seeking a Summer 2026 internship** in Robotics / Embedded Systems / IoT / Software Engineering
 
-### 🛠️ Tech Stack
+---
 
-###
+## 🛠️ Tech Stack
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="73" alt="typescript logo"  />
+
+**Languages & Markup**
+
+  <img src="https://skillicons.dev/icons?i=cpp" height="73" alt="cplusplus logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=py" height="73" alt="python logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="73" alt="azure logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="73" alt="docker logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="73" alt="git logo"  />
-  <img width="25" />
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="73" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="73" alt="typescript logo"  />
   <img width="25" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="73" alt="javascript logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="73" alt="raspberrypi logo"  />
-  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=latex" height="73" alt="latex logo"  />
+
+**Robotics & Embedded**
+
   <img src="https://skillicons.dev/icons?i=ros" height="73" alt="ros logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="73" alt="wordpress logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="73" alt="ansible logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="73" alt="cplusplus logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="73" alt="googlecloud logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="73" alt="prometheus logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=aws" height="73" alt="amazonwebservices logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=arduino" height="73" alt="arduino logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=linux" height="73" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="73" alt="raspberrypi logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=latex" height="73" alt="latex logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="73" alt="linux logo"  />
+
+**Cloud & Infrastructure**
+
+  <img src="https://skillicons.dev/icons?i=aws" height="73" alt="amazonwebservices logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="73" alt="azure logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="73" alt="googlecloud logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="73" alt="docker logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="73" alt="ansible logo"  />
+
+**Observability & Tooling**
+
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="73" alt="grafana logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="73" alt="prometheus logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="73" alt="git logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="73" alt="wordpress logo"  />
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+## 📊 GitHub Stats
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=samirbhattarai135&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+---
+
+## 🕹️ Contribution Graph
+
+<div align="center">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -86,11 +99,14 @@ I build systems where hardware meets intelligence — autonomous robots, FPGA ar
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+## 🤝 Connect
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+</div>
