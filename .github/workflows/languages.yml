@@ -2,7 +2,7 @@ name: Generate languages card
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -24,11 +24,20 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false
           path: dist/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
+      # The action exits 0 even when the GitHub API rejects the token and it
+      # renders an error card instead. Catch that here so a broken card is never
+      # published to the output branch.
+      - name: fail if the card rendered an error
+        run: |
+          if grep -q "Something went wrong" dist/languages.svg; then
+            cat dist/languages.svg
+            exit 1
+          fi
 
       - name: push languages.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: languages-output
           build_dir: dist
