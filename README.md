@@ -23,38 +23,74 @@ I build systems where hardware meets intelligence — autonomous robots, FPGA ar
 
 ### 🛠️ Tech Stack
 
-**Languages**
+###
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,js,ts" />
-</p>
-
-**Robotics & Embedded**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ros,raspberrypi,arduino,opencv,tensorflow," />
-</p>
-
-**Systems & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,aws,gcp,azure,git" />
-</p>
-
-**Also:** VHDL, FPGA (AMD Vivado) · SCADA (Ignition 8.1) · MQTT · AWS IoT Core · KiCAD · Fusion 360 (CAD/CAM) · Gazebo
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samirbhattarai135&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirbhattarai135&theme=tokyonight&layout=compact" />
-</p>
-
----
-
-<div align="center">
-  <i>Open to internship opportunities in Robotics, Embedded Systems, IoT, and Software Engineering</i><br/>
-  <b>Let's connect → <a href="mailto:samirbhattarai135@gmail.com">samirbhattarai135@gmail.com</a></b>
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="73" alt="typescript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=py" height="73" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="73" alt="azure logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="73" alt="docker logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="73" alt="git logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="73" alt="grafana logo"  />
+  <img width="25" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="73" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="73" alt="raspberrypi logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=ros" height="73" alt="ros logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="73" alt="wordpress logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="73" alt="ansible logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="73" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="73" alt="googlecloud logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="73" alt="prometheus logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=aws" height="73" alt="amazonwebservices logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="73" alt="arduino logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=linux" height="73" alt="linux logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=latex" height="73" alt="latex logo"  />
 </div>
+
+###
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=samirbhattarai135&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/samirbhattarai135/samirbhattarai135/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
