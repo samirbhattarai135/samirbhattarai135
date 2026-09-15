@@ -19,7 +19,7 @@ I build systems where hardware meets intelligence — autonomous robots, FPGA ar
 - 🔬 **Undergraduate Researcher @ USM** — FPGA-based hardware security and authentication protocols
 - 🎓 B.S. Computer Engineering and Mathematics, University of Southern Mississippi (Dec 2027) · Honors Scholar
 - 📄 Research in embedded systems and hardware security
-- 🚀 **Actively seeking a Summer 2026 internship** in Robotics / Embedded Systems / IoT / Software Engineering
+- 🚀 **Actively seeking Full-time Roles** in Robotics / Embedded Systems / IoT / Software Engineering
 
 ---
 
