@@ -3,7 +3,7 @@
 <h1>Samir Bhattarai</h1>
 <h3>Computer Engineering @ USM &nbsp;·&nbsp; Robotics · Embedded Systems · IoT</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samirbhattarai.com-blue?style=flat-square&logo=google-chrome)](https://samirbhattarai.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-samirbhattarai.com-blue?style=flat-square&logo=google-chrome)](https://samirbhattarai.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samir135-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/samir135)
 [![Email](https://img.shields.io/badge/Email-samirbhattarai135@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:samirbhattarai135@gmail.com)
 
